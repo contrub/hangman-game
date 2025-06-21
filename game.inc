@@ -1,0 +1,17 @@
+; colors list
+blackColor = 0
+blueColor = 1
+greenColor = 2
+cyanColor = 3
+redColor = 4
+magentaColor = 5
+brownColor = 6
+lGrayColor = 7
+dGrayColor = 8
+lBlueColor = 9
+lGreenColor = 10
+lCyanColor = 11
+lRedColor = 12
+lMagentaColor = 13
+yellowColor = 14
+whiteColor = 15
