@@ -3,6 +3,17 @@
 ## Overview  
 This project demonstrates practical usage of Assembly language by implementing a program that performs file operations, basic computations, and graphical output. It is designed for learning low-level programming concepts, CPU architecture, and interrupt handling.
 
+## Project Demo
+
+<details>
+<summary><b>Click to expand</b></summary>
+
+![Start Game](images/start_game.png)
+
+Start game demo
+
+</details>
+
 ## Features  
 - Open and read files in binary mode  
 - Display text and graphics on the screen  
